@@ -1,5 +1,10 @@
 # Heat Equation Solver
 
+I acknowledge the use of Gemini 3 Pro to implement the entirety of this code.  Unfortunately, the RAI website (https://rai.uni-stuttgart.de/) is not working. 
+
+Prompt: 
+1. Please write Python code to solve a heat equation. all the parameters should be taken in from a configuration file and the results written in an output file. The code should be commented as good as possible according to Python style guide. Every class, method, etc. needs a proper docstring, I also need a ReadME.md and I would like every function or method tested in an automatized test file
+
 This project implements a 1D Heat Equation solver using the Finite Difference Method (Forward Time Centered Space - FTCS) in Python.
 
 ## Project Structure
